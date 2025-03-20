@@ -18,12 +18,12 @@ lib/
 lib64/
 parts/
 sdist/
-var/
+var/100
 wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-MANIFEST
+MANIFEST1657
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
